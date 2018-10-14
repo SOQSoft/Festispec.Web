@@ -4,8 +4,11 @@
 ## Installation
 
  **1.**  Clone de repository 
+ 
  **2.**  Open Command promp 
+ 
  **3.**  `cd` naar de map met het project 
+ 
  **4.** Voer de volgende commando's uit
 ```cmd
 #Restore npm packages
