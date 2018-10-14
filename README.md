@@ -73,18 +73,21 @@ Wil je het deployen naar de master server push dan de code van develop naar  ``R
 1.  Open Github en navigeer naar de repository.
     
 2.  Under your repository name, click **Releases**.
-![Releases tab](https://help.github.com/assets/images/help/releases/release-link.png =818x170)
-    
+  <img src="https://help.github.com/assets/images/help/releases/release-link.png" width="818"/>    
 3.  klik op **Draft a new release**.
-![Releases tab](https://help.github.com/assets/images/help/releases/draft_release_button.png =371x171)
+  <img src="https://help.github.com/assets/images/help/releases/draft_release_button.png" width="371"/>
 
 4.  ![Releases tagged version](https://github.com/SOQSoft/Technisch-Ontwerp/wiki/Versiebeheer =360x49) Schrijf het versie nummer neer van welke versie het is gebruik hierbij de benaming van het het  [versie beheer](https://git-scm.com/book/en/Git-Basics-Tagging) van het technish ontwerp.
+
 5. Selecteer de master branch  pak geen andere branch anders kunnen testen fout gaan.
-![Releases tagged branch](https://help.github.com/assets/images/help/releases/releases_tag_branch.png  =356x104)
-      
+  <img src="https://help.github.com/assets/images/help/releases/releases_tag_branch.png" width="356"/>
+  
 6. Schijf een titel en een beschrijving met wat er in deze release zit.  
-7. ![Releases description](https://help.github.com/assets/images/help/releases/releases_description.png =401x249)
-8.  ![Marking it as a prerelease](/assets/images/help/releases/prerelease_checkbox.png) Als je hem wilt releasen maar niet wilt deployen naar productie zet hem dan naar **This is a pre-release** dan zou hij door de  tweede test server in gebruik worde genomen. 
-9.  Als je klaar bent om het te deployen klik dan op **Publish release**, wil je nog even wachten klik dan op **safedraft**
-![Publish or draft release buttons](https://help.github.com/assets/images/help/releases/release_buttons.png =200x100)
-10. Kijk op [Azure devops](https://dev.azure.com/Festispec/FestispecApp/_workitems/assignedtome/) om te zien wat de status van de deployment is.
+  <img src="https://help.github.com/assets/images/help/releases/releases_description.png" width="401"/>
+7.  Als je hem wilt releasen maar niet wilt deployen naar productie zet hem dan naar **This is a pre-release** dan zou hij door de  tweede test server in gebruik worde genomen. 
+  <img src="https://help.github.com/assets/images/help/releases/prerelease_checkbox.png" width="200"/>
+  
+8.  Als je klaar bent om het te deployen klik dan op **Publish release**, wil je nog even wachten klik dan op **safedraft**
+  <img src="https://help.github.com/assets/images/help/releases/release_buttons.png" width="200"/>
+
+9. Kijk op [Azure devops](https://dev.azure.com/Festispec/FestispecApp/_workitems/assignedtome/) om te zien wat de status van de deployment is.
