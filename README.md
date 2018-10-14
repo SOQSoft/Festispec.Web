@@ -85,7 +85,7 @@ Wil je het deployen naar de master server push dan de code van develop naar  ``R
 6. Schijf een titel en een beschrijving met wat er in deze release zit.  
   <img src="https://help.github.com/assets/images/help/releases/releases_description.png" width="401"/>
 7.  Als je hem wilt releasen maar niet wilt deployen naar productie zet hem dan naar **This is a pre-release** dan zou hij door de  tweede test server in gebruik worde genomen. 
-  <img src="https://help.github.com/assets/images/help/releases/prerelease_checkbox.png" width="200"/>
+  <img src="https://help.github.com/assets/images/help/releases/prerelease_checkbox.png" width="400"/>
   
 8.  Als je klaar bent om het te deployen klik dan op **Publish release**, wil je nog even wachten klik dan op **safedraft**
   <img src="https://help.github.com/assets/images/help/releases/release_buttons.png" width="200"/>
